@@ -5,3 +5,4 @@ Returned back from git.hub
 Tested again from bash
 Pull the update from bash
 Update with Tortoise
+Update with bash
