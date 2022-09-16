@@ -6,3 +6,4 @@ Tested again from bash
 Pull the update from bash
 Update with Tortoise
 Update with bash
+pull with bash and tortoise
